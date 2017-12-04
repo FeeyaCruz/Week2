@@ -1,0 +1,18 @@
+ Volume in drive C is Local Disk
+ Volume Serial Number is D470-C5ED
+
+ Directory of C:\Users\feeya\Desktop\Week2
+
+19/11/2017  22:20    <DIR>          .
+19/11/2017  22:20    <DIR>          ..
+17/11/2017  22:16               166 adder.cpp
+19/11/2017  21:18             1,652 adder.h
+19/11/2017  21:22               770 adder.o
+17/11/2017  22:18               355 calc.cpp
+19/11/2017  21:25             3,371 calc.o
+17/11/2017  23:05    <DIR>          calc_program
+17/11/2017  21:36               140 hello.cpp
+19/11/2017  22:18    <DIR>          maths_library
+19/11/2017  22:20                 0 week2
+               7 File(s)          6,454 bytes
+               4 Dir(s)  52,035,395,584 bytes free

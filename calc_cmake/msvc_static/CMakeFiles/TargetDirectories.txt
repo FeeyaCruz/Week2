@@ -1,0 +1,4 @@
+C:/Users/feeya/Desktop/calc_cmake/msvc_static/CMakeFiles/calc.dir
+C:/Users/feeya/Desktop/calc_cmake/msvc_static/CMakeFiles/maths.dir
+C:/Users/feeya/Desktop/calc_cmake/msvc_static/CMakeFiles/ALL_BUILD.dir
+C:/Users/feeya/Desktop/calc_cmake/msvc_static/CMakeFiles/ZERO_CHECK.dir
